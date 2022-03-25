@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+#textarea {
+    display: flex;
+    justify-content: center;
+}
+#text1, #text2 {
+    margin: 0% 5%;
+}
+#inputText, #outputText {
+    width: 300px;
+    height: 200px;
+}
+h3 {
+    text-align: center;
+}
